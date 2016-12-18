@@ -1,0 +1,5 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

@@ -1,0 +1,5 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\ConcatenateData\bin\Debug\ConcatenateData.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\ConcatenateData\bin\Debug\ConcatenateData.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\ConcatenateData\obj\Debug\ConcatenateData.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\ConcatenateData\obj\Debug\ConcatenateData.pdb

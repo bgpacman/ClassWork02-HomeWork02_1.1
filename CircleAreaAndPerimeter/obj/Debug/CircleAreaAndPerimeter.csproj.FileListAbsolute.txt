@@ -1,0 +1,6 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb

@@ -1,0 +1,6 @@
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\GreetingbyName\bin\Debug\GreetingbyName.exe.config
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\GreetingbyName\bin\Debug\GreetingbyName.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\GreetingbyName\bin\Debug\GreetingbyName.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\GreetingbyName\obj\Debug\GreetingbyName.exe
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\GreetingbyName\obj\Debug\GreetingbyName.pdb
+C:\Users\USER\Project\SoftUni\02 Second lesson\Square Area\GreetingbyName\obj\Debug\GreetingbyName.csprojResolveAssemblyReference.cache
